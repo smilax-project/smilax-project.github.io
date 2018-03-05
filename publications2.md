@@ -6,7 +6,7 @@ use-site-title: true
 
 
 <blockquote>
-A set of selected publications on my main areas of research. For a complete list check my <a href="https://scholar.google.ca/citations?hl=en&user=mo6UPuIAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar page</a>.	
+
 </blockquote>
 
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
@@ -31,7 +31,7 @@ A set of selected publications on my main areas of research. For a complete list
 	{% for p in site.publications %}
 	<p>hello</p>
 	 {% endfor %}	
-	 
+
 {% for y in ys reversed %}
   <h2 class="year {{ y }}">{{ y }}</h2>	
 	{% for p in site.publications %}
