@@ -1,0 +1,712 @@
+@article{taylor2009dynamic,
+  title={Dynamic modularity in protein interaction networks predicts breast cancer outcome},
+  author={Taylor, Ian W and Linding, Rune and Warde-Farley, David and Liu, Yongmei and Pesquita, Catia and Faria, Daniel and Bull, Shelley and Pawson, Tony and Morris, Quaid and Wrana, Jeffrey L},
+  journal={Nature biotechnology},
+  volume={27},
+  number={2},
+  pages={199--204},
+  year={2009},
+  publisher={Nature Publishing Group}
+}
+
+@article{pesquita2009semantic,
+  title={Semantic similarity in biomedical ontologies},
+  author={Pesquita, Catia and Faria, Daniel and Falc{\~a}o, Andr{\'e} O and Lord, Phillip and Couto, Francisco M},
+  journal={PLoS computational biology},
+  volume={5},
+  number={7},
+  pages={e1000443},
+  year={2009},
+  publisher={Public Library of Science}
+}
+
+@article{pesquita2008metrics,
+  title={Metrics for GO based protein semantic similarity: a systematic evaluation},
+  author={Pesquita, Catia and Faria, Daniel and Bastos, Hugo and Ferreira, Antonio and Falcao, Andre and Couto, Francisco},
+  journal={BMC bioinformatics},
+  volume={9},
+  number={Suppl 5},
+  pages={S4},
+  year={2008},
+  publisher={BioMed Central Ltd}
+}
+
+@inproceedings{pesquita2007evaluating,
+  title={Evaluating gobased semantic similarity measures},
+  author={Pesquita, Catia and Faria, Daniel and Bastos, Hugo and Falc{\~a}o, Andr{\'e} and Couto, Francisco},
+  booktitle={Proc. 10th Annual Bio-Ontologies Meeting},
+  volume={2007},
+  pages={37--40},
+  year={2007}
+}
+
+@article{gomes2010rescue,
+  title={Rescue of F508del-CFTR by RXR motif inactivation triggers proteome modulation associated with the unfolded protein response},
+  author={Gomes-Alves, Patr{\'\i}cia and Couto, Francisco and Pesquita, C{\'a}tia and Coelho, Ana V and Penque, Deborah},
+  journal={Biochimica et Biophysica Acta (BBA)-Proteins \& Proteomics},
+  volume={1804},
+  number={4},
+  pages={856--865},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{faria2007proteinon,
+  title={Proteinon: A web tool for protein semantic similarity},
+  author={Faria, Daniel and Pesquita, Catia and Couto, Francisco M and Falc{\~a}o, Andr{\'e}},
+  year={2007},
+  publisher={Department of Informatics, University of Lisbon}
+}
+
+@article{pesquita2009cessm,
+  title={CESSM: collaborative evaluation of semantic similarity measures},
+  author={Pesquita, Catia and Pessoa, Delphine and Faria, Daniel and Couto, F},
+  journal={JB2009: Challenges in Bioinformatics},
+  year={2009}
+}
+
+@article{bastos2011application,
+  title={Application of gene ontology to gene identification.},
+  author={Bastos, H and Tavares, Bruno and Pesquita, Catia and Faria, Daniel and Couto, F},
+  journal={Methods in molecular biology (Clifton, NJ)},
+  volume={760},
+  pages={141--157},
+  year={2011},
+  publisher={Springer}
+}
+
+@inproceedings{bastos2007using,
+  title={Using GO terms to evaluate protein clustering},
+  author={Bastos, Hugo and Faria, Daniel and Pesquita, Catia and Falc{\~a}o, Andr{\'e} O},
+  booktitle={BioOntologies SIG at ISMB/ECCB-15th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB)},
+  year={2007}
+}
+
+@article{pesquita2009identifying,
+  title={Identifying Gene Ontology Areas for Automated Enrichment},
+  author={Pesquita, Catia and Grego, Tiago and Couto, Francisco},
+  journal={Distributed Computing, Artificial Intelligence, Bioinformatics, Soft Computing, and Ambient Assisted Living},
+  pages={934--941},
+  year={2009},
+  publisher={Springer}
+}
+
+@article{pesquita2007improving,
+  title={Improving semantic similarity for proteins based on the gene ontology},
+  author={Pesquita, Catia and others},
+  journal={Master's thesis, University of Lisbon, Faculty of Sciences},
+  year={2007}
+}
+
+@article{grego2010chemical,
+  title={Chemical and metabolic pathway semantic similarity},
+  author={Grego, Tiago and Ferreira, Joao D and Pesquita, Catia and Bastos, Hugo and Vila Vi{\c{c}}osa, Diogo and Freire, Joao and Couto, Francisco M},
+  year={2010}
+}
+
+@article{pesquita2010blooms,
+  title={BLOOMS on AgreementMaker: results for OAEI 2010},
+  author={Pesquita, Catia and Stroe, Cosmin and Cruz, Isabel F and Couto, Francisco M},
+  journal={Ontology Matching},
+  pages={134},
+  year={2010}
+}
+
+@inproceedings{couto2008identifying,
+  title={Identifying bioentity recognition errors of rule-based text-mining systems},
+  author={Couto, Francisco M and Grego, Tiago and Bastos, Hugo P and Pesquita, Catia and Torres, Rafael and S{\'a}nchez, Pablo and Pascual, Leandro and Blaschke, Christian},
+  booktitle={Digital Information Management, 2008. ICDIM 2008. Third International Conference on},
+  pages={733--738},
+  year={2008},
+  organization={IEEE}
+}
+
+@article{faria2009goclasses,
+  title={GOclasses: molecular function as viewed by proteins},
+  author={Faria, Daniel and Pesquita, Catia and Couto, Francisco M and Falc{\~a}o, Andr{\'e} O},
+  journal={The 12th Annual Bio-Ontologies},
+  year={2009}
+}
+
+@inproceedings{pesquita2011go,
+  title={Where GO is going and what it means for ontology extension},
+  author={Pesquita, Catia and Couto, Francisco M},
+  booktitle={International Conference on Biomedical Ontology},
+  year={2011}
+}
+
+@article{silva2008untangling,
+  title={Untangling BioOntologies for Mining Biomedical Information},
+  author={Silva, Mario J and Couto, Francisco M and Grego, Tiago and Faria, Daniel and Pesquita, Catia},
+  year={2008},
+  publisher={Handbook of Research on Text and Web Mining Technologies, IGI Global Publishing}
+}
+
+@article{pesquitataking,
+  title={Taking GO where we need it to go: focused automated enrichment of the Gene Ontology},
+  author={Pesquita, Catia and Couto, Francisco}
+}
+
+@inproceedings{pesquita2009measuring,
+  title={Measuring coherence between electronic and manual annotations in biological databases},
+  author={Pesquita, Catia and Faria, Daniel and Couto, Francisco M},
+  booktitle={Proceedings of the 2009 ACM symposium on Applied Computing},
+  pages={806--807},
+  year={2009},
+  organization={ACM}
+}
+
+@article{tavares2008biomedical,
+  title={The Biomedical Ontology Applications (BOA) framework},
+  author={Tavares, Bruno and Bastos, Hugo P and Faria, Daniel and Ferreira, Jo{\~a}o D and Grego, Tiago and Pesquita, Catia and Couto, Francisco M},
+  journal={evaluation},
+  volume={9},
+  number={S5},
+  pages={S4},
+  year={2008}
+}
+
+@inproceedings{bastos2008bolos,
+  title={BOLOS: BLAST \& Ontology Linked-hOmologue Stars},
+  author={Bastos, Hugo P and Pesquita, Catia and Faria, Daniel and Falcao, Andr{\'e} O},
+  booktitle={Proceedings of the 2008 ACM symposium on Applied computing},
+  pages={1278--1281},
+  year={2008},
+  organization={ACM}
+}
+
+@inproceedings{pesquita2009collaborative,
+  title={Collaborative Evaluation of GO-based Similarity Measures},
+  author={Pesquita, Catia and Pessoa, Delphine and Faria, Daniel and Couto, Francisco},
+  year={2009},
+  organization={12th Annual Bio-Ontologies Meeting at ISMB/ECCB 2009}
+}
+
+@article{domingosimproving,
+  title={Improving Gene Functional Analysis in Ethylene-induced Leaf Abscission using GO and ProteInOn},
+  author={Domingos, Sara and Pesquita, C{\'a}tia and Couto, Francisco M and Goulao, Luis F and Oliveira, Cristina}
+}
+
+@inproceedings{pesquita2009go,
+  title={GO where we need it to go: focused automated enrichment of the Gene Ontology. Student Council Symposium},
+  author={Pesquita, Catia and Couto, Francisco},
+  year={2009},
+  organization={Student Council Symposium at ISMB/ECCB 2009}
+}
+
+@inproceedings{cruz2011using,
+  title={Using AgreementMaker to align ontologies for OAEI 2011},
+  author={Cruz, Isabel F and Stroe, Cosmin and Caimi, Federico and Fabiani, Alessio and Pesquita, Catia and Couto, Francisco M and Palmonari, Matteo},
+  booktitle={Proceedings of the 6th International Conference on Ontology Matching-Volume 814},
+  pages={114--121},
+  year={2011},
+  organization={CEUR-WS. org}
+}
+
+@article{grego2012chemical,
+  title={Chemical entity recognition and resolution to ChEBI},
+  author={Grego, Tiago and Pesquita, Catia and Bastos, Hugo P and Couto, Francisco M},
+  journal={ISRN bioinformatics},
+  volume={2012},
+  year={2012},
+  publisher={Hindawi Publishing Corporation}
+}
+
+@inproceedings{cruz2011biomedical,
+  title={Biomedical Ontology Matching Using the AgreementMaker System.},
+  author={Cruz, Isabel F and Stroe, Cosmin and Pesquita, Catia and Couto, Francisco M and Cross, Valerie},
+  booktitle={ICBO},
+  year={2011}
+}
+
+@article{faria2012mining,
+  title={Mining GO annotations for improving annotation consistency},
+  author={Faria, Daniel and Schlicker, Andreas and Pesquita, Catia and Bastos, Hugo and Ferreira, Ant{\'o}nio EN and Albrecht, Mario and Falc{\~a}o, Andr{\'e} O},
+  journal={PloS one},
+  volume={7},
+  number={7},
+  pages={e40519},
+  year={2012},
+  publisher={Public Library of Science}
+}
+
+@inproceedings{ferreira2012bringing,
+  title={Bringing epidemiology into the Semantic Web.},
+  author={Ferreira, Joao D and Pesquita, Catia and Couto, Francisco M and Silva, Mario J},
+  booktitle={ICBO},
+  year={2012}
+}
+
+@article{pesquita2012predicting,
+  title={Predicting the extension of biomedical ontologies},
+  author={Pesquita, Catia and Couto, Francisco M},
+  journal={PLoS Computational Biology},
+  volume={8},
+  number={9},
+  pages={e1002630},
+  year={2012},
+  publisher={Public Library of Science}
+}
+
+@article{pesquita2012automated,
+  title={Automated extension of biomedical ontologies},
+  author={Pesquita, C{\'a}tia},
+  year={2012}
+}
+
+@article{faria2012testing,
+  title={Testing the AgreementMaker System in the Anatomy Task of OAEI 2012},
+  author={Faria, Daniel and Pesquita, Catia and Santos, Emanuel and Couto, Francisco M and Stroe, Cosmin and Cruz, Isabel F},
+  journal={arXiv preprint arXiv:1212.1625},
+  year={2012}
+}
+
+@article{santos2015ontology,
+  title={Ontology alignment repair through modularization and confidence-based heuristics},
+  author={Santos, Emanuel and Faria, Daniel and Pesquita, Catia and Couto, Francisco M},
+  journal={PloS one},
+  volume={10},
+  number={12},
+  pages={e0144807},
+  year={2015},
+  publisher={Public Library of Science}
+}
+
+@inproceedings{pesquita2013s,
+  title={What’s in a ‘nym’? Synonyms in Biomedical Ontology Matching},
+  author={Pesquita, Catia and Faria, Daniel and Stroe, Cosmin and Santos, Emanuel and Cruz, Isabel F and Couto, Francisco M},
+  booktitle={International Semantic Web Conference},
+  pages={526--541},
+  year={2013},
+  organization={Springer, Berlin, Heidelberg}
+}
+
+@article{falcaolicenciatura,
+  title={Licenciatura em Ci{\^e}ncias da Sa{\'u}de},
+  author={Falcao, Andr{\'e} and Pesquita, C{\'a}tia}
+}
+
+@inproceedings{ferreira2013digital,
+  title={Digital preservation of epidemic resources: coupling metadata and ontologies},
+  author={Ferreira, Jo{\~a}o D and Pesquita, Catia and Couto, Francisco M and Silva, M{\'a}rio J},
+  booktitle={10th International Conference on Preservation of Digital Objects},
+  pages={310},
+  year={2013}
+}
+
+@inproceedings{pesquita2013repair,
+  title={To repair or not to repair: reconciling correctness and coherence in ontology reference alignments},
+  author={Pesquita, Catia and Faria, Daniel and Santos, Emanuel and Couto, Francisco M},
+  booktitle={Proceedings of the 8th International Conference on Ontology Matching-Volume 1111},
+  pages={13--24},
+  year={2013},
+  organization={CEUR-WS. org}
+}
+
+@inproceedings{faria2013agreementmakerlight,
+  title={The agreementmakerlight ontology matching system},
+  author={Faria, Daniel and Pesquita, Catia and Santos, Emanuel and Palmonari, Matteo and Cruz, Isabel F and Couto, Francisco M},
+  booktitle={OTM Confederated International Conferences" On the Move to Meaningful Internet Systems"},
+  pages={527--541},
+  year={2013},
+  organization={Springer, Berlin, Heidelberg}
+}
+
+@article{pesquitasemi,
+  title={Semi-Automated Annotation of Epidemiological Resources},
+  author={Pesquita, Catia and Ferreira, Jo{\~a}o D and Couto, Francisco M and Silva, M{\'a}rio J}
+}
+
+@article{pesquita2014epidemiology,
+  title={The epidemiology ontology: an ontology for the semantic annotation of epidemiological resources},
+  author={Pesquita, Catia and Ferreira, Jo{\~a}o D and Couto, Francisco M and Silva, M{\'a}rio J},
+  journal={Journal of biomedical semantics},
+  volume={5},
+  number={1},
+  pages={4},
+  year={2014},
+  publisher={BioMed Central}
+}
+
+@article{pesquita2014towards,
+  title={Towards visualizing the alignment of large biomedical ontologies},
+  author={Pesquita, Catia and Faria, Daniel and Santos, Emanuel and Neefs, Jean-Marc and Couto, Francisco M},
+  journal={Data Integration in the Life Sciences (DILS)},
+  year={2014}
+}
+
+@inproceedings{faria2014agreementmakerlight,
+  title={AgreementMakerLight: a scalable automated ontology matching system},
+  author={Faria, Daniel and Pesquita, Catia and Santos, Emanuel and Cruz, Isabel F and Couto, Francisco M},
+  booktitle={Proceedings of the 10th International Conference on Data Integration in the Life Sciences (DILS 2014)},
+  pages={29--32},
+  year={2014}
+}
+
+@inproceedings{faria2014towards,
+  title={Towards annotating potential incoherences in BioPortal mappings},
+  author={Faria, Daniel and Jim{\'e}nez-Ruiz, Ernesto and Pesquita, Catia and Santos, Emanuel and Couto, Francisco M},
+  booktitle={International Semantic Web Conference},
+  year={2014}
+}
+
+@inproceedings{faria2014agreementmakerlight,
+  title={AgreementMakerLight 2.0: towards efficient large-scale ontology matching},
+  author={Faria, Daniel and Pesquita, Catia and Santos, Emanuel and Cruz, Isabel F and Couto, Francisco M},
+  booktitle={Proceedings of the 2014 International Conference on Posters \& Demonstrations Track-Volume 1272},
+  pages={457--460},
+  year={2014},
+  organization={CEUR-WS. org}
+}
+
+@article{faria2014automatic,
+  title={Automatic background knowledge selection for matching biomedical ontologies},
+  author={Faria, Daniel and Pesquita, Catia and Santos, Emanuel and Cruz, Isabel F and Couto, Francisco M},
+  journal={PloS one},
+  volume={9},
+  number={11},
+  pages={e111226},
+  year={2014},
+  publisher={Public Library of Science}
+}
+
+@inproceedings{ivanova2014proceedings,
+  title={Proceedings of the international workshop on visualizations and user interfaces for knowledge engineering and linked data analytics},
+  author={Ivanova, Valentina and Kauppinen, Tomi and Lohmann, Steffen and Mazumdar, Suvodeep and Pesquita, Catia and Xu, Kai},
+  year={2014},
+  organization={CEUR Workshop Proceedings}
+}
+
+@article{hsiaoposter,
+  title={Poster: Temperature Responses},
+  author={Hsiao, Yueh and Lucent, Del and Mikhalkova, Deana and Nemani, Abhishek and Terzaghi, William}
+}
+
+@article{serrazina2015castanea,
+  title={Castanea root transcriptome in response to Phytophthora cinnamomi challenge},
+  author={Serrazina, Susana and Santos, Carmen and Machado, Helena and Pesquita, Catia and Vicentini, Renato and Pais, Maria Salom{\'e} and Sebastiana, M{\'o}nica and Costa, Rita},
+  journal={Tree Genetics \& Genomes},
+  volume={11},
+  number={1},
+  pages={1--19},
+  year={2015},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@inproceedings{pesquita2014building,
+  title={Building reference alignments for compound matching of multiple ontologies using OBO cross-products},
+  author={Pesquita, Catia and Cheatham, Michelle and Faria, Daniel and Barros, Joana and Santos, Emanuel and Couto, Francisco M.},
+  booktitle={Ontology Matching Workshop at ISWC 2014},
+  year={2014}
+}
+
+@inproceedings{ivanova2014introduction,
+  title={Introduction to VISUAL 2014-Workshop on Visualizations and User Interfaces for Knowledge Engineering and Linked Data Analytics},
+  author={Ivanova, Valentina and Kauppinen, Tomi and Lohmann, Steffen and Mazumdar, Suvodeep and Pesquita, Catia and Xu, Kai},
+  booktitle={International Conference on Knowledge Engineering and Knowledge Management},
+  pages={80--82},
+  year={2014},
+  organization={Springer, Cham}
+}
+
+@inproceedings{faria2014agreementmakerlight,
+  title={AgreementMakerLight Results for OAEI 2014},
+  author={Faria, Daniel and Martins, Catarina and Nanavaty, Amruta and Taheri, Aynaz and Pesquita, Catia and Santos, Emanuel and Cruz, Isabel F. and Couto, Francisco M.},
+  booktitle={Ontology Matching workshop},
+  year={2014}
+}
+
+@inproceedings{bakhshandeh2015ontology,
+  title={Ontology matching techniques for enterprise architecture models.},
+  author={Bakhshandeh, Marzieh and Pesquita, Catia and Borbinha, Jos{\'e} Luis},
+  booktitle={OM},
+  pages={236--237},
+  year={2015}
+}
+
+@inproceedings{faria2015aml,
+  title={AML results for OAEI 2015.},
+  author={Faria, Daniel and Martins, Catarina and Nanavaty, Amruta and Oliveira, Daniela and Sowkarthiga, Booma and Taheri, Aynaz and Pesquita, Catia and Couto, Francisco M and Cruz, Isabel F},
+  booktitle={OM},
+  pages={116--123},
+  year={2015}
+}
+
+@inproceedings{ivanova2015voila,
+  title={VOILA 2015 Visualizations and User Interfaces for Ontologies and Linked Data: Proceedings of the International Workshop on Visualizations and User Interfaces for Ontologies and Linked Data},
+  author={Ivanova, Valentina and Lambrix, Patrick and Lohmann, Steffen and Pesquita, Catia},
+  booktitle={International Workshop on Visualizations and User Interfaces for Ontologies and Linked Bethlehem, Pennsylvania, USA, October 11, 2015},
+  year={2015},
+  organization={Rheinisch-Westfaelische Technische Hochschule Aachen University}
+}
+
+@inproceedings{oliveira2015inferring,
+  title={Inferring logical definitions using compound ontology matching.},
+  author={Oliveira, Daniela and Pesquita, Catia},
+  booktitle={ICBO},
+  year={2015}
+}
+
+@inproceedings{martins2015visualization,
+  title={Visualization and editing of biomedical ontology alignments in AgreementMakerLight.},
+  author={Martins, Catarina and Faria, Daniel and Pesquita, Catia},
+  booktitle={ICBO},
+  year={2015}
+}
+
+@inproceedings{cheatham2015results,
+  title={Results of the ontology alignment evaluation initiative 2015},
+  author={Cheatham, Michelle and Dragisic, Zlatan and Euzenat, J{\'e}r{\^o}me and Faria, Daniel and Ferrara, Alfio and Flouris, Giorgos and Fundulaki, Irini and Granada, Roger and Ivanova, Valentina and Jim{\'e}nez-Ruiz, Ernesto and others},
+  booktitle={10th ISWC workshop on ontology matching (OM)},
+  pages={60--115},
+  year={2015},
+  organization={No commercial editor.}
+}
+
+@article{ivanova2014visual,
+  title={VISUAL 2014},
+  author={Ivanova, Valentina and Kauppinen, Tomi and Lohmann, Steffen and Mazumdar, Suvodeep and Pesquita, Catia and Xu, Kai},
+  year={2014}
+}
+
+@article{dragisicuser,
+  title={User validation in ontology alignment (Extended version)},
+  author={Dragisic, Zlatan and Ivanova, Valentina and Lambrix, Patrick and Faria, Daniel and Jim{\'e}nez-Ruiz, Ernesto and Pesquita, Catia}
+}
+
+@article{couto2009handling,
+  title={Handling self-citations using Google Scholar},
+  author={Couto, Francisco M and Grego, Tiago and Pesquita, Catia and Verissimo, Paulo},
+  year={2009},
+  publisher={International Journal of Scientometrics, Informetrics and Bibliometrics}
+}
+
+@inproceedings{oliveira2015compound,
+  title={Compound Matching of Biomedical Ontologies},
+  author={Oliveira, Daniela and Pesquita, Catia},
+  booktitle={International Conference on Biomedical Ontology},
+  volume={1515},
+  year={2015},
+  organization={CEUR}
+}
+
+@inproceedings{martins2015towards,
+  title={Towards visualizing the mapping incoherences in Bioportal},
+  author={Martins, Catarina and Jimenez-Ruiz, Ernesto and Santos, Emanuel and Pesquita, Catia},
+  booktitle={International Conference on Biomedical Ontology (ICBO)},
+  volume={1515},
+  year={2015},
+  organization={CEUR}
+}
+
+@inproceedings{antunes2015process,
+  title={The Process Model Matching Contest 2015},
+  author={Antunes, Gon{\c{c}}alo and Bakhshandeh, Marzieh and Borbinha, Jos{\'e} Luis and Cardoso, Joao and Dadashnia, Sharam and Francescomarino, Chiara Di and Dragoni, Mauro and Fettke, Peter and Gal, Avigdor and Ghidini, Chiara and others},
+  booktitle={EMISA},
+  year={2015}
+}
+
+@inproceedings{bakhshandeh2016ontological,
+  title={An Ontological Matching Approach for Enterprise Architecture Model Analysis},
+  author={Bakhshandeh, Marzieh and Pesquita, Catia and Borbinha, Jos{\'e}},
+  booktitle={International Conference on Business Information Systems},
+  pages={315--326},
+  year={2016},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{dragisic2016user,
+  title={User validation in ontology alignment},
+  author={Dragisic, Zlatan and Ivanova, Valentina and Lambrix, Patrick and Faria, Daniel and Jim{\'e}nez-Ruiz, Ernesto and Pesquita, Catia},
+  booktitle={International Semantic Web Conference},
+  pages={200--217},
+  year={2016},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{faria2013agreement,
+  title={Agreement maker light results for OAEI 2013},
+  author={Faria, Daniel and Pesquita, Catia and Santos, Emanuel and Cruz, Isabel F and Couto, Francisco M},
+  booktitle={Proceedings of the 8th International Conference on Ontology Matching-Volume 1111},
+  pages={101--108},
+  year={2013},
+  organization={CEUR-WS. org}
+}
+
+@inproceedings{faria2013agreement,
+  title={Agreement maker light results for OAEI 2013},
+  author={Faria, Daniel and Pesquita, Catia and Santos, Emanuel and Cruz, Isabel F and Couto, Francisco M},
+  booktitle={Proceedings of the 8th International Conference on Ontology Matching-Volume 1111},
+  pages={101--108},
+  year={2013},
+  organization={CEUR-WS. org}
+}
+
+@phdthesis{oliveira2015compound,
+  title={Compound matching of biomedical ontologies},
+  author={Oliveira, Daniela Patr{\'\i}cia dos Santos},
+  year={2015}
+}
+
+@article{couto2009semantic,
+  title={Semantic similarity in biomedical ontologies},
+  author={Couto, Francisco M and Falcao, Andre O and Faria, Daniel and Lord, Phillip and Pesquita, Catia},
+  journal={PLoS Computational Biology},
+  volume={5},
+  number={7},
+  year={2009},
+  publisher={Public Library of Science}
+}
+
+@inproceedings{ivanova2016voila,
+  title={VOILA! 2016: Proceedings of the 2nd International Workshop on Visualization and Interaction for Ontologies and Linked Data, Co-located with ISWC 2016, Kobe, Japan, October 17, 2016},
+  author={Ivanova, Valentina and Lambrix, Patrick and Lohmann, Steffen and Pesquita, Catia},
+  booktitle={2nd International Workshop on Visualization and Interaction for Ontologies and Linked Data, Kobe, Japan, October 17},
+  year={2016},
+  organization={CEUR Workshop Proceedings}
+}
+
+@article{ivanova2016visualization,
+  title={Visualization and Interaction for Ontologies and Linked Data (VOILA! 2016)},
+  author={Ivanova, Valentina and Lambrix, Patrick and Lohmann, Steffen and Pesquita, Catia},
+  year={2016}
+}
+
+@article{pesquita2017semantic,
+  title={Semantic similarity in the gene ontology},
+  author={Pesquita, Catia},
+  journal={The Gene Ontology Handbook},
+  pages={161--173},
+  year={2017},
+  publisher={Springer New York}
+}
+
+@inproceedings{faria2016oaei,
+  title={OAEI 2016 results of AML.},
+  author={Faria, Daniel and Pesquita, Catia and Balasubramani, Booma S and Martins, Catarina and Cardoso, Joao and Curado, Hugo and Couto, Francisco M and Cruz, Isabel F},
+  booktitle={OM@ ISWC},
+  pages={138--145},
+  year={2016}
+}
+
+@article{ivanova2015proceedings,
+  title={Proceedings of the International Workshop on Visualizations and User Interfaces for},
+  author={Ivanova, Valentina and Lambrix, Patrick and Lohmann, Steffen and Pesquita, Catia},
+  year={2015}
+}
+
+@article{cheatham2017special,
+  title={Special issue on ontology and linked data matching},
+  author={Cheatham, Michelle and Cruz, Isabel and Euzenat, J{\'e}r{\^o}me and Pesquita, Catia},
+  year={2017}
+}
+
+@inproceedings{achichi2016results,
+  title={Results of the ontology alignment evaluation initiative 2016},
+  author={Achichi, Manel and Cheatham, Michelle and Dragisic, Zlatan and Euzenat, J{\'e}r{\^o}me and Faria, Daniel and Ferrara, Alfio and Flouris, Giorgos and Fundulaki, Irini and Harrow, Ian and Ivanova, Valentina and others},
+  booktitle={CEUR workshop proceedings},
+  volume={1766},
+  pages={73--129},
+  year={2016},
+  organization={RWTH}
+}
+
+@misc{shvaiko2012proc,
+  title={Proc. 7th ISWC workshop on ontology matching (OM)},
+  author={Shvaiko, Pavel and Euzenat, J{\'e}r{\^o}me and Kementsietsidis, Anastasios and Mao, Ming and Noy, Natalya and Stuckenschmidt, Heiner},
+  year={2012},
+  publisher={No commercial editor.}
+}
+
+@article{vianaoptimizing,
+  title={Optimizing 16S Analysis Pipelines},
+  author={Viana, Samuel and Pesquita, C{\'a}tia and Sobral, Daniel and Faria, Daniel}
+}
+
+@incollection{cheatham2017semantic,
+  title={Semantic Data Integration},
+  author={Cheatham, Michelle and Pesquita, Catia},
+  booktitle={Handbook of Big Data Technologies},
+  pages={263--305},
+  year={2017},
+  publisher={Springer International Publishing}
+}
+
+@inproceedings{ferrara2010results,
+  title={Results of the Ontology Alignment Evaluation Initiative 2016},
+  author={Ferrara, Giorgos Flouris and Fundulaki, Irini and Harrow, Ian and Ivanova, Valentina and Jim{\'e}nez-Ruiz, Ernesto and Kuss, Elena and Lambrix, Patrick and Leopold, Henrik and Li, Huanyu and Meilicke, Christian and others},
+  booktitle={ISWC workshop on Ontology Matching},
+  year={2010}
+}
+
+@inproceedings{cardoso2016ontology,
+  title={Ontology-Based Approach for Heterogeneity Analysis of EA Models},
+  author={Cardoso, Jo{\~a}o and Bakhshandeh, Marzieh and Faria, Daniel and Pesquita, C{\'a}tia and Borbinha, Jos{\'e}},
+  booktitle={International Conference on Business Process Management},
+  pages={131--142},
+  year={2016},
+  organization={Springer, Cham}
+}
+
+@inproceedings{faria2014agreementmakerlight,
+  title={AgreementMakerLight 2.0},
+  author={Faria, Daniel and Pesquita, Catia and Santos, Emanuel and Cruz, Isabel F and Couto, Francisco M},
+  booktitle={ISWC 2014 Posters and Demonstrations Track, ISWC-P and D 2014, 13th International Semantic Web Conference, ISWC 2014},
+  year={2014},
+  organization={CEUR-WS}
+}
+
+@article{gaspar2017expression,
+  title={Expression Profiling in Pinus pinaster in Response to Infection with the Pine Wood Nematode Bursaphelenchus xylophilus},
+  author={Gaspar, Daniel and Trindade, C{\^a}ndida and Usi{\'e}, Ana and Meireles, Br{\'\i}gida and Barbosa, Pedro and Fortes, Ana M and Pesquita, C{\'a}tia and Costa, Rita L and Ramos, Ant{\'o}nio M},
+  journal={Forests},
+  volume={8},
+  number={8},
+  pages={279},
+  year={2017},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@inproceedings{faria2017results,
+  title={Results of AML in OAEI 2017},
+  author={Faria, Daniel and Balasubramani, Booma Sowkarthiga and Shivaprabhu, Vivek R and Mott, Isabela and Pesquita, Catia and Couto, Francisco M and Cruz, Isabel F},
+  booktitle={OM-2017: Proceedings of the Twelfth International Workshop on Ontology Matching},
+  pages={122},
+  year={2017}
+}
+
+@misc{cheatham2017semantic,
+  title={Semantic web journal},
+  author={Cheatham, Michelle and Cruz, Isabel and Euzenat, J{\'e}r{\^o}me and Pesquita, Catia},
+  year={2017},
+  publisher={IOS Press}
+}
+
+@article{oliveira2018improving,
+  title={Improving the interoperability of biomedical ontologies with compound alignments},
+  author={Oliveira, Daniela and Pesquita, Catia},
+  journal={Journal of biomedical semantics},
+  volume={9},
+  number={1},
+  pages={1},
+  year={2018},
+  publisher={BioMed Central}
+}
+
+@article{faria2018tackling,
+  title={Tackling the challenges of matching biomedical ontologies},
+  author={Faria, Daniel and Pesquita, Catia and Mott, Isabela and Martins, Catarina and Couto, Francisco M and Cruz, Isabel F},
+  journal={Journal of Biomedical Semantics},
+  volume={9},
+  number={1},
+  pages={4},
+  year={2018},
+  publisher={BioMed Central}
+}
+
+@article{ivanova2014visual,
+  title={Visual 2014: Visualizations and user interfaces for knowledge engineering and linked data analytics: Proceedings of the international workshop on visualizations and user interfaces for knowledge engineering and linked data analytics (VISUAL)},
+  author={Ivanova, Valentina and Kauppinen, Tomi and Lohmann, Steffen and Mazumdar, Suvodeep and Pesquita, Catia and Xu, Kai},
+  year={2014},
+  publisher={CEUR}
+}
