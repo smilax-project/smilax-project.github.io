@@ -12,6 +12,10 @@ use-site-title: true
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
 {% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
 
+{% for p in site.publications %}
+	<p>hello</p>
+	 {% endfor %}
+
 <div class="filters">
 	<ul class="filter-details">
 		<li><a href="#" id="all">Show All</a></li>	
@@ -28,9 +32,7 @@ use-site-title: true
 
 <div class="posts-list">
 
-	{% for p in site.publications %}
-	<p>hello</p>
-	 {% endfor %}	
+		
 
 {% for y in ys reversed %}
   <h2 class="year {{ y }}">{{ y }}</h2>	
