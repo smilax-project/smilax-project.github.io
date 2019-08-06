@@ -12,8 +12,8 @@ use-site-title: true
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
 {% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
 
-<p>Publications</p>
-{% for p in publications %}
+<p>Publications 2</p>
+{% for p in site.posts %}
 	<p>hello</p>
 	 {% endfor %}
 
