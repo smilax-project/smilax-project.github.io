@@ -12,7 +12,7 @@ use-site-title: true
 {% assign ys =  site.publications | map: 'year' | join: ','  | split: ',' | uniq %}
 {% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
 
-<p>hello</p>
+<p>Publications</p>
 {% for p in paginator.publications %}
 	<p>hello</p>
 	 {% endfor %}
