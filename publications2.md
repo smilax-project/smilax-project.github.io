@@ -13,7 +13,7 @@ use-site-title: true
 {% assign tags =  site.publications | map: 'tags' | join: ','  | split: ',' | uniq %}
 
 <p>Publications</p>
-{% for p in paginator.publications %}
+{% for p in site.publications %}
 	<p>hello</p>
 	 {% endfor %}
 
